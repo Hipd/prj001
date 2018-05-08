@@ -23,3 +23,7 @@ print("hello, world!")
 
 
 print("helpme")
+
+a=["hello","world","shit"]
+b=[i*3 for i in a]
+print(b)
