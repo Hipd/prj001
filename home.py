@@ -34,3 +34,12 @@ print("hello for github")
 
 print("nice to meet you")
 
+
+def echo_help(yes):
+    if yes == 1:
+        print("help me")
+    else:
+        print("no help")
+
+
+echo_help(2)
